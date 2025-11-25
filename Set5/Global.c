@@ -9,3 +9,4 @@ void displayGlobal() {
 int main() {
     printf("In main: globalVar = %d\n", globalVar);
     displayGlobal();
+}
